@@ -1,7 +1,8 @@
-# LatihanGit_batch_may
-Mengenal dan mengoperasikan Github (Batch May)
+# LatihanGit_batch_june
+Mengenal dan mengoperasikan Github (Batch June)
 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+| Description | Lorem ipsum |
